@@ -127,3 +127,13 @@
 .sam{
     animation: rotate360 2s linear infinite;
 }
+
+
+.rap{
+    gap: 20px;
+}
+@media screen and (max-width:475px) {
+    #course{
+        text-align: center;
+    }
+}
