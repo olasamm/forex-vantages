@@ -1,0 +1,129 @@
+.logo{
+    width: 70%;
+}
+
+.headerbackground{
+    background-color: #f8f9ff;
+}
+
+.download{
+    background-color: #0e0a47;
+    border-radius: -10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.EDOZZIER{
+    background-color: #041669;
+    border-radius: 5px;
+    margin-top: 140px;
+    font-size: 30px !important;
+    color: white;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.line{
+    border-bottom: 3px solid ;
+   width: 80%;
+    border-color: #ffffff;
+}
+
+
+.borde{
+    border: 1px solid black !important;
+    border-radius: 25px;
+}
+
+.quis{
+    font-weight: 400px !important;
+}
+
+.more{
+    font-weight: 500;
+}
+
+.kind{
+    background-color: #03033a;
+}
+
+.Smart{
+    color: #0b0135;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* font-size: 50px; */
+    font-weight: 500;
+}
+
+
+.able{
+    width: 70%;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.forex{
+    color: #040127;
+    font-weight: bolder;
+}
+
+
+.offer{
+    background-color: #052162;
+}
+
+.color{
+    border: none;
+}
+
+
+.join{
+    background-color: #0e0a47;
+    border-radius: -10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+
+.click{
+    border: 1px solid ;
+    border-radius: 10px;
+}
+
+
+.fx{
+    margin-bottom: -100px;
+    background-color: rgb(3, 3, 52);
+    
+}
+
+
+.services{
+    margin-top: 180px;
+}
+
+
+.line{
+    border-bottom: 1px solid ;
+   width: 80%;
+    border-color: #b7b9bf;
+}
+
+.center-image{
+    gap: 20px !important;
+
+}
+
+
+@keyframes rotate360{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
+
+.sam{
+    animation: rotate360 2s linear infinite;
+}
