@@ -144,9 +144,13 @@
     height: 550px;
 }
 
-/* .with{
+.with{
     width: 300px;
-} */
+}
+
+.gap{
+    gap: 10px;
+}
 
 
 .test{
